@@ -1,0 +1,22 @@
+/**
+ * @author Prajyot Walali
+ * @date 10th September, 2018
+ * GITHUB :: github.com/prajyot-w
+ */
+
+*{font-family: Helvetica, Georgia, sans-serif;}
+
+div, h1, h3 {
+    text-align: center;
+}
+
+#game-field {
+    border: 1px solid black;
+    width: 400px;
+    height: 400px;
+}
+
+.score-container {
+    margin: 0.5em;
+    font-size: 32px;
+}
